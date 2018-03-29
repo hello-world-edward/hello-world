@@ -1,4 +1,7 @@
 # hello-world
-“The quote below is from The Shining:”
+“The quote below is from The Shining:"
+“All work and no play makes Jack a dull boy”
 
+“The quote below is from The Shining:”
 Well done!
+
